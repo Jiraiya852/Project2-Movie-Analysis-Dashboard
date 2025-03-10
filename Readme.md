@@ -20,6 +20,6 @@ An interactive Dash app to explore movie industry trends (1986-2016). Filter by 
 2. Download movies.csv from Kaggle and place it in the root directory.
 3. Run the app:
 ```bash
-python app.py
+python movies.py
 ```
 Open http://127.0.0.1:8050/ in your browser.
